@@ -13,7 +13,7 @@ Signup on [Azure Devtools for Teaching](https://azureforeducation.microsoft.com/
 
 where on the left you'll be able to find licenses and .iso's for tools in _Software_ tab and a tailored collection to learning resources in _Learning_ tab.
 
-    P.S. There is a lot of cool stuff there - explore all tabs! For example, you can find templates for Azure like [this one](https://github.com/Azure/azure-quickstart-templates/blob/master/demos/ubuntu-desktop-gnome-rdp/README.md) with guided and straightforward deployment. 
+> P.S. There is a lot of cool stuff there - explore all tabs! For example, you can find templates for Azure like [this one](https://github.com/Azure/azure-quickstart-templates/blob/master/demos/ubuntu-desktop-gnome-rdp/README.md) with guided and straightforward deployment. 
 
 ##  🆓 How to get free exam attempts?
 
